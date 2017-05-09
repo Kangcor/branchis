@@ -1,0 +1,169 @@
+<!DOCTYPE html>
+<head>
+    <meta charset="utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+
+    <title>Branchis</title>
+    <meta name="description" content="" />
+
+    <meta name="HandheldFriendly" content="True" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no"/>
+
+    <link rel="shortcut icon" href="assets/images/icon.png?v=94a2ae1678" />
+    <link rel="icon" sizes="192x192" href="assets/images/icon.png?v=94a2ae1678" />
+
+    <link rel="stylesheet" type="text/css" href="assets/styles/main.css?v=94a2ae1678" />
+
+    <link rel="canonical" href="subscribe" />
+    <meta name="referrer" content="no-referrer-when-downgrade" />
+    
+    <meta property="og:site_name" content="Branchis" />
+    <meta property="og:type" content="website" />
+    <meta property="og:title" content="Branchis" />
+    <meta property="og:url" content="http://localhost:2368/subscribe/" />
+    <meta name="twitter:card" content="summary" />
+    <meta name="twitter:title" content="Branchis" />
+    <meta name="twitter:url" content="http://localhost:2368/subscribe/" />
+    
+    <script type="text/javascript" src="shared/ghost-url.js?v=94a2ae1678"></script>
+<script type="text/javascript">
+ghost.init({
+	clientId: "ghost-frontend",
+	clientSecret: "9027dd03ba6e"
+});
+</script>
+    <meta name="generator" content="Ghost 0.11" />
+    <link rel="alternate" type="application/rss+xml" title="Branchis" href="rss/index.html" />
+    <link rel="stylesheet" href="assets/styles/themes/teal.css"/>
+<style>
+  .mapache-disqus{
+    display: none !important;
+  }
+  .mapache-facebook{
+    display: inline !important;
+  }
+</style>
+</head>
+<body class="" mapache-page-url="http://localhost:2368">
+    <header id="header" class="header  toolbar-shadow">
+    <section class="header-wrap u-flex-wrap u-flex-center">
+
+        <a class="header-logo" href="index.html">
+                <img src="content/images/2017/04/LOGO-GRAN.png" alt="Branchis"/>
+                <span class="header-logo-bg" style="display:none;background-image:url(content/images/2017/04/LOGO-GRAN.png)"></span>
+        </a>
+
+        <nav class="header-menu u-flex"><ul class="u-unstyled">
+        <li><a href="index.html" class="navigation-link ">Home</a></li>
+        <li><a href="about-us/index.html" class="navigation-link ">About us</a></li>
+</ul>
+</nav>
+
+        <form id="header-search" class="header-search u-flex" >
+            <div id="searchbox" class="searchbox">
+                <input id="searchbox-input" placeholder="Search" type="text" class="search-field" name="q" value="" autocomplete="off">
+                <span class="search-icon i-search"></span>
+            </div>
+
+            <div class="search-popout closed">
+                <div id="search-results" class="search-suggest-results" style="display:none"></div>
+            </div>
+        </form>
+
+        <aside class="header-follow u-flex u-h-b-lg social_box">
+            
+            
+        </aside>
+
+        <a id="search-mob-toggle"  class="search-mob-toggle btn btn-lg btn-flat u-h-a-lg i-search" href="subscribe#"></a>
+        <a id="nav-mob-toggle" class="nav-mob-toggle btn btn-lg btn-flat u-h-a-lg" href="subscribe#"><span></span><span></span><span></span></a>
+
+    </section>
+
+    <nav class="nav-mob u-h-a-lg">
+    <div class="nav-mob-content">
+
+        <ul class="u-unstyled">
+        <li><a href="index.html" class="navigation-link ">Home</a></li>
+        <li><a href="about-us/index.html" class="navigation-link ">About us</a></li>
+</ul>
+
+
+        <div class="nav-mob-follow social_box">
+            
+            
+        </div>
+
+        <div class="nav-mob-subscribe">
+            <form method="post" action="subscribe" class="newsletter-form u-flex">
+    <input class="confirm" type="hidden" name="confirm"  /><input class="location" type="hidden" name="location"  /><input class="referrer" type="hidden" name="referrer"  />
+
+    <div class="form-group">
+        <input class="form-control" type="email" name="email"  placeholder="Enter your email address" />
+    </div>
+    <button class="btn btn-primary" type="submit">Subscribe</button>
+    <script type="text/javascript">(function(g,h,o,s,t){h[o]('.location')[s]=h[o]('.location')[s] || g.location.href;h[o]('.referrer')[s]=h[o]('.referrer')[s] || h.referrer;})(window,document,'querySelector','value');</script>
+</form>
+
+
+        </div>
+
+        <div class="nav-mob-copyright">
+            &copy; 2017 <a href="index.html">Branchis</a> Powered by <a href="https://ghost.org" target="_blank">Ghost</a>
+            <span>Design with</span> <i class="i-favorite heart"></i> by <a href="http://bit.ly/GodoFredoNinja-Mapache" target="_blank" title="Desarrollador Web FullStack.">@GodoFredoNinja</a>
+        </div>
+
+    </div>
+</nav>
+
+</header>
+    <main class="main">
+
+
+<div class="container subscribe u-flex-aling-center">
+
+    <div class="subscribe-wrap">
+            <h2 class="subscribe-title">Subscribe to Branchis</h2>
+
+            <form method="post" action="subscribe" class="subscribe-form">
+    <input class="confirm" type="hidden" name="confirm"  /><input class="location" type="hidden" name="location"  /><input class="referrer" type="hidden" name="referrer"  />
+
+    <div class="form-group">
+        <input class="subscribe-input" type="email" name="email" autofocus="autofocus" placeholder="Your email address" />
+    </div>
+    <button class="btn btn-primary btn-block" type="submit">Subscribe</button>
+    <script type="text/javascript">(function(g,h,o,s,t){h[o]('.location')[s]=h[o]('.location')[s] || g.location.href;h[o]('.referrer')[s]=h[o]('.referrer')[s] || h.referrer;})(window,document,'querySelector','value');</script>
+</form>
+
+
+    </div>
+
+
+</div>
+</main>
+    <footer class="footer">
+    <div class="footer-wrap">
+        <div class="footer-copy">&copy; 2017 <a href="index.html">Branchis</a> Powered by <a href="https://ghost.org" target="_blank">Ghost</a></div>
+        <div class="footer-design-author"><span>Design with</span> <i class="i-favorite heart"></i> by <a href="http://www.defabregas.com" target="_blank" title="FullStack Web Developer.">@deFabregas</a></div>
+    </div>
+</footer>
+
+     <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.2.4/jquery.min.js"></script>
+
+    <div id="fb-root"></div>
+  <script>(function(d, s, id) {
+    var js, fjs = d.getElementsByTagName(s)[0];
+    if (d.getElementById(id)) return;
+    js = d.createElement(s); js.id = id;
+    js.async=true;
+    js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.8";
+    fjs.parentNode.insertBefore(js, fjs);
+  }(document, 'script', 'facebook-jssdk'));</script>
+
+    <a href="subscribe#" class="scroll_top u-h-b-lg i-arrow_upward"></a>
+
+    <script src="assets/scripts/main.js?v=94a2ae1678"></script>
+
+    <script type="text/javascript">WebFontConfig ={google:{families:['Roboto:300,400,500','Roboto+Mono']}};(function(){var wf=document.createElement('script');wf.src='https://ajax.googleapis.com/ajax/libs/webfont/1.6.16/webfont.js';wf.type='text/javascript';wf.async='true';var s=document.getElementsByTagName('script')[0];s.parentNode.insertBefore(wf,s);})();</script>
+</body>
+</html>
