@@ -9,10 +9,10 @@
     <meta name="HandheldFriendly" content="True" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no"/>
 
-    <link rel="shortcut icon" href="assets/images/icon.png?v=41a1d45653" />
-    <link rel="icon" sizes="192x192" href="assets/images/icon.png?v=41a1d45653" />
+    <link rel="shortcut icon" href="assets/images/icon.png?v=3187a33d2e" />
+    <link rel="icon" sizes="192x192" href="assets/images/icon.png?v=3187a33d2e" />
 
-    <link rel="stylesheet" type="text/css" href="assets/styles/main.css?v=41a1d45653" />
+    <link rel="stylesheet" type="text/css" href="assets/styles/main.css?v=3187a33d2e" />
 
     <link rel="canonical" href="subscribe" />
     <meta name="referrer" content="no-referrer-when-downgrade" />
@@ -25,7 +25,7 @@
     <meta name="twitter:title" content="Branchis" />
     <meta name="twitter:url" content="http://localhost:2368/subscribe/" />
     
-    <script type="text/javascript" src="shared/ghost-url.js?v=41a1d45653"></script>
+    <script type="text/javascript" src="shared/ghost-url.js?v=3187a33d2e"></script>
 <script type="text/javascript">
 ghost.init({
 	clientId: "ghost-frontend",
@@ -166,7 +166,7 @@ ghost.init({
 
     <a href="subscribe#" class="scroll_top u-h-b-lg i-arrow_upward"></a>
 
-    <script src="assets/scripts/main.js?v=41a1d45653"></script>
+    <script src="assets/scripts/main.js?v=3187a33d2e"></script>
 
     <script type="text/javascript">WebFontConfig ={google:{families:['Roboto:300,400,500','Roboto+Mono']}};(function(){var wf=document.createElement('script');wf.src='https://ajax.googleapis.com/ajax/libs/webfont/1.6.16/webfont.js';wf.type='text/javascript';wf.async='true';var s=document.getElementsByTagName('script')[0];s.parentNode.insertBefore(wf,s);})();</script>
 </body>
